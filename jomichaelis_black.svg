@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="80.278381mm"
+   height="10.955866mm"
+   viewBox="0 0 80.278381 10.955866"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="jomichaelis_black.svg">
+  <defs
+     id="defs2">
+    <linearGradient
+       id="linearGradient6229"
+       inkscape:collect="always">
+      <stop
+         id="stop6225"
+         offset="0"
+         style="stop-color:#433df2;stop-opacity:1" />
+      <stop
+         id="stop6227"
+         offset="1"
+         style="stop-color:#00dff2;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient6016">
+      <stop
+         style="stop-color:#433df2;stop-opacity:1;"
+         offset="0"
+         id="stop6012" />
+      <stop
+         style="stop-color:#433df2;stop-opacity:0;"
+         offset="1"
+         id="stop6014" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient6016"
+       id="linearGradient6020"
+       x1="38.4347"
+       y1="44.964584"
+       x2="73.267159"
+       y2="44.964584"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient6229"
+       id="linearGradient6223"
+       gradientUnits="userSpaceOnUse"
+       x1="38.754082"
+       y1="50.310226"
+       x2="72.964577"
+       y2="39.61895" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="4"
+     inkscape:cx="155.5421"
+     inkscape:cy="11.835882"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="3000"
+     inkscape:window-height="1875"
+     inkscape:window-x="-13"
+     inkscape:window-y="-13"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-38.434701,-39.486653)">
+    <path
+       style="fill:url(#linearGradient6223);fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 49.444862,39.619443 38.754081,50.310227 h 24.321527 l 9.888971,-10.691276 z"
+       id="path4524"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:8.45597553px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.21139939;stroke-opacity:1;"
+       x="72.903"
+       y="47.806473"
+       id="text6249"
+       inkscape:transform-center-y="0.11398465"
+       inkscape:transform-center-x="-1.1660161e-06"><tspan
+         sodipodi:role="line"
+         id="tspan6247"
+         x="72.903"
+         y="47.806473"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:8.45597553px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';letter-spacing:0px;stroke-width:0.21139939;fill:#000000;fill-opacity:1;stroke:none;stroke-opacity:1;"
+         dy="0 0 1.7497878">jo<tspan
+   style="font-size:8.45597553px;letter-spacing:0px;word-spacing:0px;stroke-width:0.21139939;fill:#000000;fill-opacity:1;stroke:none;stroke-opacity:1;"
+   id="tspan6251"
+   rotate="0 0 0 0 0 0 0 0 0 0"
+   dy="0">michaelis</tspan></tspan></text>
+  </g>
+</svg>
